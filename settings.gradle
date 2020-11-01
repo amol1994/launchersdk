@@ -1,0 +1,3 @@
+include ':LauncherSdk'
+include ':app'
+rootProject.name = "AndroidAppsSdk"
